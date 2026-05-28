@@ -1,0 +1,6 @@
+langchain
+ibm-watsonx-ai
+docling
+transformers
+torch
+opencv-python-headless
